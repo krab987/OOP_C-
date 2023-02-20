@@ -5,7 +5,7 @@ public class Program
     static void Main(string[] args)
     {
         CV cv = new CV(34);
-        cv.Age = null;
+        cv.Age = 0;
         List<CV> myCvs = new List<CV>(); // визначили list,  type - CV
         while (true)
         {

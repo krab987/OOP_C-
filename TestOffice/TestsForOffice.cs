@@ -1,15 +1,10 @@
 using Lab_9.Module.Enums;
 using Lab_9.Module.MainClasses;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Lab_9.Module.Papers;
-using Lab_9.Module.Interfaces;
+
 
 namespace TestOffice
 {
+    
     [TestClass]
     public class TestsForOffice
     {
@@ -29,6 +24,7 @@ namespace TestOffice
             // assert
             Assert.AreEqual(expected, actual);
         }
+        
         [TestMethod]
         public void TestSetLevelCoping_normal()
         {

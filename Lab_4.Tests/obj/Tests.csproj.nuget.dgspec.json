@@ -46,11 +46,11 @@
           "dependencies": {
             "MSTest.TestAdapter": {
               "target": "Package",
-              "version": "[2.2.7, )"
+              "version": "[3.0.2, )"
             },
             "MSTest.TestFramework": {
               "target": "Package",
-              "version": "[2.2.7, )"
+              "version": "[3.0.2, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -82,20 +82,15 @@
       }
     },
     "W:\\projects\\C#\\OOП\\Lab_7\\Lab_7.csproj": {
-      "version": "1.0.0",
       "restore": {
         "projectUniqueName": "W:\\projects\\C#\\OOП\\Lab_7\\Lab_7.csproj",
         "projectName": "Lab_7",
         "projectPath": "W:\\projects\\C#\\OOП\\Lab_7\\Lab_7.csproj",
         "packagesPath": "C:\\Users\\paloc\\.nuget\\packages\\",
-        "outputPath": "W:\\projects\\C#\\OOП\\Lab_7\\obj\\",
         "projectStyle": "PackagesConfig",
         "configFilePaths": [
           "C:\\Users\\paloc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net472"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -110,17 +105,6 @@
       },
       "frameworks": {
         "net472": {}
-      },
-      "runtimes": {
-        "win": {
-          "#import": []
-        },
-        "win-x64": {
-          "#import": []
-        },
-        "win-x86": {
-          "#import": []
-        }
       }
     }
   }
