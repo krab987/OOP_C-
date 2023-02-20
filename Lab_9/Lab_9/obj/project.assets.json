@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\C#\\OOП\\Lab_9\\Lab_9\\Lab_9.csproj",
+      "projectUniqueName": "W:\\projects\\C#\\OOП\\Lab_9\\Lab_9\\Lab_9.csproj",
       "projectName": "Lab_9",
-      "projectPath": "D:\\projects\\C#\\OOП\\Lab_9\\Lab_9\\Lab_9.csproj",
+      "projectPath": "W:\\projects\\C#\\OOП\\Lab_9\\Lab_9\\Lab_9.csproj",
       "packagesPath": "C:\\Users\\paloc\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\C#\\OOП\\Lab_9\\Lab_9\\obj\\",
+      "outputPath": "W:\\projects\\C#\\OOП\\Lab_9\\Lab_9\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\paloc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\projects\\C#\\OOП\\Lab_10\\Lab_10\\Lab_10.csproj": {
-              "projectPath": "D:\\projects\\C#\\OOП\\Lab_10\\Lab_10\\Lab_10.csproj"
+            "W:\\projects\\C#\\OOП\\Lab_10\\Lab_10\\Lab_10.csproj": {
+              "projectPath": "W:\\projects\\C#\\OOП\\Lab_10\\Lab_10\\Lab_10.csproj"
             }
           }
         }
@@ -84,7 +84,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

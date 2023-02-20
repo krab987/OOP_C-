@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\C#\\OOП\\Lab_8\\Lab_8.csproj": {}
+    "W:\\projects\\C#\\OOП\\Lab_8\\Lab_8.csproj": {}
   },
   "projects": {
-    "D:\\projects\\C#\\OOП\\Lab_8\\Lab_8.csproj": {
+    "W:\\projects\\C#\\OOП\\Lab_8\\Lab_8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\C#\\OOП\\Lab_8\\Lab_8.csproj",
+        "projectUniqueName": "W:\\projects\\C#\\OOП\\Lab_8\\Lab_8.csproj",
         "projectName": "Lab_8",
-        "projectPath": "D:\\projects\\C#\\OOП\\Lab_8\\Lab_8.csproj",
+        "projectPath": "W:\\projects\\C#\\OOП\\Lab_8\\Lab_8.csproj",
         "packagesPath": "C:\\Users\\paloc\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\C#\\OOП\\Lab_8\\obj\\",
+        "outputPath": "W:\\projects\\C#\\OOП\\Lab_8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paloc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

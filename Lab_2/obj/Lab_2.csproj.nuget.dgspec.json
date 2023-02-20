@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\C#\\OOП\\Lab_2\\Lab_2.csproj": {}
+    "W:\\projects\\C#\\OOП\\Lab_2\\Lab_2.csproj": {}
   },
   "projects": {
-    "D:\\projects\\C#\\OOП\\Lab_2\\Lab_2.csproj": {
+    "W:\\projects\\C#\\OOП\\Lab_2\\Lab_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\C#\\OOП\\Lab_2\\Lab_2.csproj",
+        "projectUniqueName": "W:\\projects\\C#\\OOП\\Lab_2\\Lab_2.csproj",
         "projectName": "Lab_2",
-        "projectPath": "D:\\projects\\C#\\OOП\\Lab_2\\Lab_2.csproj",
+        "projectPath": "W:\\projects\\C#\\OOП\\Lab_2\\Lab_2.csproj",
         "packagesPath": "C:\\Users\\paloc\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\C#\\OOП\\Lab_2\\obj\\",
+        "outputPath": "W:\\projects\\C#\\OOП\\Lab_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paloc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,6 +29,11 @@
             "targetAlias": "net6.0",
             "projectReferences": {}
           }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
         }
       },
       "frameworks": {
@@ -50,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

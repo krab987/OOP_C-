@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\C#\\OOП\\TestOffice\\TestOffice.csproj": {}
+    "W:\\projects\\C#\\OOП\\TestOffice\\TestOffice.csproj": {}
   },
   "projects": {
-    "D:\\projects\\C#\\OOП\\Lab_10\\Lab_10\\Lab_10.csproj": {
+    "W:\\projects\\C#\\OOП\\Lab_10\\Lab_10\\Lab_10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\C#\\OOП\\Lab_10\\Lab_10\\Lab_10.csproj",
+        "projectUniqueName": "W:\\projects\\C#\\OOП\\Lab_10\\Lab_10\\Lab_10.csproj",
         "projectName": "Lab_10",
-        "projectPath": "D:\\projects\\C#\\OOП\\Lab_10\\Lab_10\\Lab_10.csproj",
+        "projectPath": "W:\\projects\\C#\\OOП\\Lab_10\\Lab_10\\Lab_10.csproj",
         "packagesPath": "C:\\Users\\paloc\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\C#\\OOП\\Lab_10\\Lab_10\\obj\\",
+        "outputPath": "W:\\projects\\C#\\OOП\\Lab_10\\Lab_10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paloc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,18 +55,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\projects\\C#\\OOП\\Lab_8\\Lab_8.csproj": {
+    "W:\\projects\\C#\\OOП\\Lab_8\\Lab_8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\C#\\OOП\\Lab_8\\Lab_8.csproj",
+        "projectUniqueName": "W:\\projects\\C#\\OOП\\Lab_8\\Lab_8.csproj",
         "projectName": "Lab_8",
-        "projectPath": "D:\\projects\\C#\\OOП\\Lab_8\\Lab_8.csproj",
+        "projectPath": "W:\\projects\\C#\\OOП\\Lab_8\\Lab_8.csproj",
         "packagesPath": "C:\\Users\\paloc\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\C#\\OOП\\Lab_8\\obj\\",
+        "outputPath": "W:\\projects\\C#\\OOП\\Lab_8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paloc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -110,18 +110,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\projects\\C#\\OOП\\Lab_9\\Lab_9\\Lab_9.csproj": {
+    "W:\\projects\\C#\\OOП\\Lab_9\\Lab_9\\Lab_9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\C#\\OOП\\Lab_9\\Lab_9\\Lab_9.csproj",
+        "projectUniqueName": "W:\\projects\\C#\\OOП\\Lab_9\\Lab_9\\Lab_9.csproj",
         "projectName": "Lab_9",
-        "projectPath": "D:\\projects\\C#\\OOП\\Lab_9\\Lab_9\\Lab_9.csproj",
+        "projectPath": "W:\\projects\\C#\\OOП\\Lab_9\\Lab_9\\Lab_9.csproj",
         "packagesPath": "C:\\Users\\paloc\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\C#\\OOП\\Lab_9\\Lab_9\\obj\\",
+        "outputPath": "W:\\projects\\C#\\OOП\\Lab_9\\Lab_9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paloc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -138,8 +138,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\projects\\C#\\OOП\\Lab_10\\Lab_10\\Lab_10.csproj": {
-                "projectPath": "D:\\projects\\C#\\OOП\\Lab_10\\Lab_10\\Lab_10.csproj"
+              "W:\\projects\\C#\\OOП\\Lab_10\\Lab_10\\Lab_10.csproj": {
+                "projectPath": "W:\\projects\\C#\\OOП\\Lab_10\\Lab_10\\Lab_10.csproj"
               }
             }
           }
@@ -169,18 +169,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\projects\\C#\\OOП\\TestOffice\\TestOffice.csproj": {
+    "W:\\projects\\C#\\OOП\\TestOffice\\TestOffice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\C#\\OOП\\TestOffice\\TestOffice.csproj",
+        "projectUniqueName": "W:\\projects\\C#\\OOП\\TestOffice\\TestOffice.csproj",
         "projectName": "TestOffice",
-        "projectPath": "D:\\projects\\C#\\OOП\\TestOffice\\TestOffice.csproj",
+        "projectPath": "W:\\projects\\C#\\OOП\\TestOffice\\TestOffice.csproj",
         "packagesPath": "C:\\Users\\paloc\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\C#\\OOП\\TestOffice\\obj\\",
+        "outputPath": "W:\\projects\\C#\\OOП\\TestOffice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paloc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -197,11 +197,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\projects\\C#\\OOП\\Lab_8\\Lab_8.csproj": {
-                "projectPath": "D:\\projects\\C#\\OOП\\Lab_8\\Lab_8.csproj"
+              "W:\\projects\\C#\\OOП\\Lab_8\\Lab_8.csproj": {
+                "projectPath": "W:\\projects\\C#\\OOП\\Lab_8\\Lab_8.csproj"
               },
-              "D:\\projects\\C#\\OOП\\Lab_9\\Lab_9\\Lab_9.csproj": {
-                "projectPath": "D:\\projects\\C#\\OOП\\Lab_9\\Lab_9\\Lab_9.csproj"
+              "W:\\projects\\C#\\OOП\\Lab_9\\Lab_9\\Lab_9.csproj": {
+                "projectPath": "W:\\projects\\C#\\OOП\\Lab_9\\Lab_9\\Lab_9.csproj"
               }
             }
           }
@@ -249,7 +249,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
